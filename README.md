@@ -1,9 +1,11 @@
-# cybersecurity-project-reports-and-results
 
-#This is a repository for security related project reports and results.
 
-#The files are shown in this repository is open to anyone. Because this are tested in my lab environment using open source softwares.
+# Cybersecurity Project Reports and Results
 
-#The reports and results are not a part of any organization or private individuals.
+This repository contains reports and results related to security projects.
 
-#You can find my work and projects I have done in my cybersecurity career.
+The files in this repository are open to everyone, as they have been tested in my lab environment using open-source software.
+
+The reports and results are not associated with any organization or private individuals.
+
+Here, you can explore my work and the projects I have undertaken during my cybersecurity career.
